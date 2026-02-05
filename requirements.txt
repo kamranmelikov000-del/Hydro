@@ -1,1 +1,17 @@
+streamlit
+pandas
+folium
+streamlit-folium
+branca
+google-genai
+matplotlib
+scipy
+geojsoncontour
+python-docx
+plotly
+scikit-learn
+seaborn
+pykrige
 shapely
+statsmodels
+tabulate
