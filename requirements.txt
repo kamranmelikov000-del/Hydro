@@ -11,3 +11,4 @@ python-docx
 plotly
 scikit-learn
 seaborn
+pykrige
